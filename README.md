@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-
+<p>My name is symi, I am a fullstack typescript developer living in Baltimore maryland</p>
 ---
 
 ### :man_technologist: About Me :
