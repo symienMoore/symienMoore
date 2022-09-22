@@ -1,6 +1,7 @@
 
 
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5012&pause=1000&color=5CF710&center=true&width=435&lines=Full+stack+app+developer)](https://git.io/typing-svg)
 
 ---
 
@@ -26,3 +27,4 @@
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=symienMoore&theme=dark&hide_border=true)](https://git.io/streak-stats)
