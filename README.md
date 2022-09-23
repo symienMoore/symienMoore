@@ -1,10 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5012&pause=1000&color=5CF710&center=true&width=435&lines=Full+stack+app+developer" alt="Typing SVG" /></a>
 </div>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
----
 
 ### :man_technologist: About Me :
 <p>My name is symi, I am a fullstack typescript developer living in Baltimore maryland</p>
