@@ -35,7 +35,9 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-          
+  <img alt="prisma" src="https://img.shields.io/badge/-Prisma-430098?style=flat-square&logo=prisma&logoColor=white" />       
+  <img alt="trpc" src="https://img.shields.io/badge/-Trpc-430098?style=flat-square&logo=trpc&logoColor=white" />
+  <img alt="firebase" src="https://img.shields.io/badge/-Firebase-430098?style=flat-square&logo=firebase&logoColor=white" />
 </div>
 
 ---
